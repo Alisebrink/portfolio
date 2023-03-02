@@ -31,7 +31,7 @@ a {
 }
 
 .about-me a {
-  color:#ff2e63;
+  color:red;
   text-decoration: none;
   cursor: pointer;
 }
@@ -55,7 +55,7 @@ a {
   text-align: center;
 }
 .main__header {
-  background-image: url("./images/header2.jpg");
+  background-image: url("./images/header6.jpg");
   background-size: cover;
   background-position: center;
   color: white;
@@ -112,7 +112,8 @@ a {
 }
 
 .tech-skill-red {
-  color: #08d9d6;
+  color: red;
+  font-weight: 700;
 }
 
 .portfolio {
@@ -144,7 +145,7 @@ a {
 }
 
 .content__container:nth-child(2n + 1) {
-  background: #eaeaea;
+  background: #F6F6F5;
 }
 
 .featured img {
@@ -171,10 +172,9 @@ a {
 
 .skill {
   padding: 2px 5px;
-  background: #ff2e63;
+  background: red;
   color: white;
-  font-weight: 300;
-  font-size: 10px;
+  font-size: 12px;
   margin-right: 5px;
 }
 
@@ -194,7 +194,7 @@ a {
 }
 
 .arrows {
-  color: #08d9d6;
+  color: #545E75;
 }
 
 .other-project {
@@ -204,7 +204,7 @@ a {
 .thought span,
 .thought a {
   text-transform: uppercase;
-  color: #ff2e63;
+  color: red;
   font-weight: 300;
   text-decoration: none;
 }
@@ -224,7 +224,7 @@ a {
 }
 
 .more-thoughts span {
-  color: #ff2e63;
+  color: red;
   text-transform: uppercase;
   font-weight: 300;
 }
@@ -241,7 +241,7 @@ a {
 }
 
 .more-thoughts a {
-  color: #ff2e63;
+  color: red;
 }
 
 .skills-container {
@@ -257,7 +257,7 @@ a {
 
 .skills-container h4 {
   text-align: center;
-  color: #08d9d6;
+  color: #545E75;
 }
 
 .skills-container ul {
@@ -301,7 +301,7 @@ a {
 }
 
 .main__footer {
-  background: #ff2e63;
+  background: red;
   color: white;
   font-size: 24px;
   text-align: center;
