@@ -59,7 +59,7 @@ a {
   background-size: cover;
   background-position: center;
   color: white;
-  min-height: 80vh;
+  min-height: 425px;
   padding: 24px;
   position: relative;
 }
