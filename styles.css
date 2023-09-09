@@ -386,7 +386,7 @@ a {
     max-width: 800px;
     margin: 0 auto;
     position: relative;
-    min-height: 30vh;
+    min-height: 300px;
   }
 
   .icon__container {
